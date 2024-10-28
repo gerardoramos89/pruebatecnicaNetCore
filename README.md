@@ -4,6 +4,7 @@
 
 # Diagrama de arquitectura
 
-![image](https://github.com/user-attachments/assets/c1064e0b-c59e-461c-b795-c753e34f4792)
+![image](https://github.com/user-attachments/assets/4f891588-de12-4ceb-ae64-a8ff307506fc)
+
 
 
