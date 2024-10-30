@@ -18,7 +18,7 @@
 
 ![image](https://github.com/user-attachments/assets/4f4571ca-7b8c-46d3-8f6d-d274dee5956a)
 
-## 2. Creacion FrontEnd usando Svelte; Aqui se demuestra que se realiza la instalacion de Svelte
+## 3. Creacion FrontEnd usando Svelte; Aqui se demuestra que se realiza la instalacion de Svelte
 
 ![image](https://github.com/user-attachments/assets/90fc32e5-7625-4bd0-8104-d975ac85b71f)
 
