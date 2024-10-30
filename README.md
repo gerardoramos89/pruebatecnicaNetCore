@@ -16,7 +16,7 @@
 
 ## Entregables Documentacion Api usando Swagger
 
-#Crud de Productos, Reseevras y Clientes
+#Crud de Productos, Reservas y Clientes
 
 ![image](https://github.com/user-attachments/assets/4f4571ca-7b8c-46d3-8f6d-d274dee5956a)
 
